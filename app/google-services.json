@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "775194470724",
+    "firebase_url": "https://bizchat-6a41e.firebaseio.com",
+    "project_id": "bizchat-6a41e",
+    "storage_bucket": "bizchat-6a41e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775194470724:android:e0ba6a9dfb054510",
+        "android_client_info": {
+          "package_name": "com.bizshare.bizchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775194470724-56755vf43mj88bl0e8jdahl3pqcu6ers.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bizshare.bizchat",
+            "certificate_hash": "82c759c2666e825c3aae5cf52494dcc1f3b91c56"
+          }
+        },
+        {
+          "client_id": "775194470724-5k1i6tntb96k0tsip0sg736fjmhh1t23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADgGRx6bp6ekCi4G27CB02B1SyaIEpRuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775194470724-5k1i6tntb96k0tsip0sg736fjmhh1t23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

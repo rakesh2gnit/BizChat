@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "rakesh2gnit@gmail.com",
+      "password": "Rakesh7799"
+    },
+    {
+      "user": "rakesh2gnit@gmail.com",
+      "pass": "Rakesh7799"
+    },
+    {
+      "username": "sandeep@gmail.com",
+      "password": "Password"
+    },
+    {
+      "username": "padma@gmail.com",
+      "password": "Password"
+    },
+    {
+      "username": "syamu@gmail.com",
+      "password": "Password"
+    },
+    {
+      "username": "lakshmi@gmail.com",
+      "password": "Password"
+    }
+  ]
+}
